@@ -1,0 +1,104 @@
+BasicInfo:
+  FirstName: Nikita
+  LastName: Kuchin
+  Photo: img/av.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 909 290 28 50
+    - Icon: fas fa-envelope
+      Info: kuchin-02@mail.ru
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: Yandex
+    Place: Remote
+    Positions:
+      - Title: SOFTWARE TESTER
+        Date: Aug 2021 - Mar 2022
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Manual']
+  - Employer: Luidor
+    Place: Nizhniy Novgorod
+    Positions:
+      - Title: Car Mechanic
+        Date: Jun 2019 - Jul 2019
+        Details:
+          - Pre-sale cars preparation.
+          - Checking the main fluids.
+          - Body wash.
+          - Painting parts.
+          - Checking the tire pressure level.
+          - Checking the level of transmission fluid and appropriate replacement.
+          - Tightening /loosening fasteners, suspension, handbrake.
+          - Partial assembly (cargo platform).
+
+
+Education:
+  - Course: BSc Software Engineering
+    Place: Lobachevsky State University, ITMM
+    Date: Sep 2020 - Aug 2024
+    Details: Specialised in applied mathematics
+
+References:
+  - Name: Person One
+    Relation: Co-worker at Super Cool Company
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 790
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: Melbourne, Australia
+  - Name: Person Two
+    Relation: Boss at Super Cool Company
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 791
+    - Icon: fas fa-envelope
+      Info: contact@person-two.com
+    - Icon: fas fa-map-marker-alt
+      Info: Sydney, Australia
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - CSS
+      - C/C++
+      - SQL
+  - Family: Frameworks
+    Items:
+  - Family: Developer Tools
+    Items:
+      - Git
+  - Family: Misc
+    Items:
+      - Postgresql
+      - LaTeX
+
+Languages:
+  - Name: Russian
+    Level: Native
+  - Name: English
+    Level: B2
+
+Interests:
+  - Basketball
+  - Photography
+  - Math
+  - Chess
+  - Languages
