@@ -21,27 +21,24 @@ Experience:
       - Title: SOFTWARE TESTER
         Date: Aug 2021 - Mar 2022
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Manual']
+          - Manual testing of services and establishment of bug reports
+          - Checking existing errors for playback
+          - Writing test scripts and checklists to test the functionality of services
+        Badges: ['Manual', 'Bug-tracking']
   - Employer: Luidor
     Place: Nizhniy Novgorod
     Positions:
       - Title: Car Mechanic
         Date: Jun 2019 - Jul 2019
         Details:
-          - Pre-sale cars preparation.
-          - Checking the main fluids.
-          - Body wash.
-          - Painting parts.
-          - Checking the tire pressure level.
-          - Checking the level of transmission fluid and appropriate replacement.
-          - Tightening /loosening fasteners, suspension, handbrake.
-          - Partial assembly (cargo platform).
+          - Pre-sale cars preparation
+          - Checking the main fluids
+          - Body wash
+          - Painting parts
+          - Checking the tire pressure level
+          - Checking the level of transmission fluid and appropriate replacement
+          - Tightening /loosening fasteners, suspension, handbrake
+          - Partial assembly (cargo platform)
 
 
 Education:
