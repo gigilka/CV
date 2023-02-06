@@ -8,11 +8,11 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: kuchin-02@mail.ru
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://nickkuchin.netlify.app/" target="_blank">https://nickkuchin.netlify.app/</a>
+      Info: <a class="contact__link" href="https://nickkuchin.netlify.app/"  target="_blank">https://nickkuchin.netlify.app/</a>
     - Icon: fas fa-map-marker-alt
       Info: Russia
     - Icon: fab fa-github
-      Info: <a class="contact__link" href="https://github.com/gigilka" target="_blank">https://github.com/gigilka/</a>
+      Info: <a class="contact__link" href="https://github.com/gigilka" target="_blank">https://github.com/gigilka/>Gigilka</a>
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
