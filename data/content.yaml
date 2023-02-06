@@ -14,7 +14,7 @@ BasicInfo:
     - Icon: fab fa-github
       Info: <a class="contact__link" href="https://github.com/gigilka">Gigilka</a>
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Motivated Software Tester with 8 month experience in manual testing. Participated in the program "VK Testers" (social network), in which I found bugs, which were accepted for review.I have experience as a self-employed (service Yandex.Toloka), where it was necessary to perform a lot of monotonous, but varied tasks. I am eager to be challenged in order to grow and further improve my IT skills. 
 
 Experience:
   - Employer: Yandex
@@ -26,7 +26,6 @@ Experience:
           - Manual testing of services and establishment of bug reports
           - Checking existing errors for playback
           - Writing test scripts and checklists to test the functionality of services
-        Badges: ['Manual', 'Bug-tracking']
   - Employer: Luidor
     Place: Nizhniy Novgorod
     Positions:
@@ -60,7 +59,11 @@ Skills:
       - C/C++
       - SQL
   - Family: Frameworks
-    Items:
+    Items: 
+    - Node.js
+    - WebSocket
+    - Pandas
+    - MatPlotLib
   - Family: Developer Tools
     Items:
       - Git
@@ -68,6 +71,7 @@ Skills:
     Items:
       - Postgresql
       - LaTeX
+      - Linux
 
 Languages:
   - Name: Russian
