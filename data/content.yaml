@@ -13,6 +13,8 @@ BasicInfo:
       Info: Russia
     - Icon: fab fa-github
       Info: <a class="contact__link" href="https://github.com/gigilka">Gigilka</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/nikita-kuchin-16a622245/">Kuchin Nikita</a>
 
 Profile: Motivated Software Tester with 8 month experience in manual testing. Participated in the program "VK Testers" (social network), in which I found bugs, which were accepted for review.I have experience as a self-employed (service Yandex.Toloka), where it was necessary to perform a lot of monotonous, but varied tasks. I am eager to be challenged in order to grow and further improve my IT skills. 
 
