@@ -55,17 +55,8 @@ Skills:
   - Family: Programming
     Items:
       - Python
-      - HTML
-      - Javascript
-      - CSS
       - C/C++
       - SQL
-  - Family: Frameworks
-    Items: 
-    - Node.js
-    - WebSocket
-    - Pandas
-    - MatPlotLib
   - Family: Developer Tools
     Items:
       - Git

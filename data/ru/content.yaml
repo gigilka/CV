@@ -1,0 +1,89 @@
+BasicInfo:
+  FirstName: Nikita
+  LastName: Kuchin
+  Photo: img/av.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 909 290 28 50
+    - Icon: fas fa-envelope
+      Info: kuchin-02@mail.ru
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://nickkuchin.netlify.app/"  target="_blank">https://nickkuchin.netlify.app/</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/gigilka">Gigilka</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/kuchin-nick/">Kuchin Nikita</a>
+
+Profile: Motivated Software Tester with 8 month experience in manual testing. Participated in the program "VK Testers" (social network), in which I found bugs, which were accepted for review.I have experience as a self-employed (service Yandex.Toloka), where it was necessary to perform a lot of monotonous, but varied tasks. I am eager to be challenged in order to grow and further improve my IT skills. 
+
+Experience:
+  - Employer: Яндекс
+    Place: Удаленная работа
+    Positions:
+      - Title: Асессор-тестировщик
+        Date: Август 2021 - Март 2022
+        Details:
+          - Ручное тестирование сервисов и создание отчетов об ошибках (баг-репортов)
+          - Проверка существующих ошибок на воспроизведение
+          - Написание тестовых сценариев и чек-листов для проверки функциональности сервисов
+  - Employer: Луидор
+    Place: Нижний Новгород
+    Positions:
+      - Title: Ученик автослесаря
+        Date: Июнь 2019 - Июль 2019
+        Details:
+          - Предпродажная подготовка автомобилей
+          - Проверка основных жидкостей
+          - Мойка кузова
+          - Покраска деталей
+          - Проверка уровня давления в шинах
+          - Проверка уровня трансмиссионной жидкости и соответствующая замена
+          - Затягивание/ослабление креплений, подвески, ручного тормоза
+          - Частичная сборка(грузовая платформа)
+
+
+Education:
+  - Course: BSc Software Engineering
+    Place: Lobachevsky State University, ITMM
+    Date: Sep 2020 - Aug 2024
+    Details: Specialised in applied mathematics
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - CSS
+      - C/C++
+      - SQL
+  - Family: Frameworks
+    Items: 
+    - Node.js
+    - WebSocket
+    - Pandas
+    - MatPlotLib
+  - Family: Developer Tools
+    Items:
+      - Git
+  - Family: Misc
+    Items:
+      - Postgresql
+      - LaTeX
+      - Linux
+
+Languages:
+  - Name: Русский
+    Level: Родной
+  - Name: Английский
+    Level: B2
+
+Interests:
+  - Баскетбол
+  - Математика
+  - Шахматы
+  - Плавание
+  - Чтение
