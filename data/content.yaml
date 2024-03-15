@@ -25,9 +25,10 @@ Experience:
       - Title: SUPPORT SPECIALIST WITH TECHNICAL SKILLS
         Date: Apr 2023 - present
         Details:
-          - Replying to users' messages by mail and in chats
-          - API, Postman
+          - Identifying user issues, responding to user messages via mail and chat
+          - Working with API and JavaScript case study creation, Postman, tracking systems, application logs, knowledge bases
           - Service improvement
+          - Teamwork, technical meetings.
   - Employer: Yandex
     Place: Remote
     Positions:
@@ -65,15 +66,15 @@ Skills:
     Items:
       - Python
       - C/C++
-      - SQL
+      - Java
+      - JavaScript
   - Family: Developer Tools
     Items:
       - Git
   - Family: Misc
     Items:
-      - Postgresql
       - LaTeX
-      - Linux
+      - Linux (user level and simple bash scripts)
       - Postman
 
 Languages:
