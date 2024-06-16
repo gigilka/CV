@@ -16,7 +16,9 @@ BasicInfo:
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://www.linkedin.com/in/kuchin-nick/">Kuchin Nikita</a>
 
-Profile: Motivated Software Tester with 8 month experience in manual testing. Participated in the program "VK Testers" (social network), in which I found bugs, which were accepted for review.I have experience as a self-employed (service Yandex.Toloka), where it was necessary to perform a lot of monotonous, but varied tasks. I am eager to be challenged in order to grow and further improve my IT skills. 
+Profile: I am a motivated software tester with 8 months of experience in manual testing. I participated in the VK Testers program (social network), where I found bugs that were accepted for review.
+
+I also had experience as a self-employed freelancer on the Yandex.Toloka platform. There, I performed a variety of monotonous tasks. However, I am eager to take on new challenges to grow and improve my IT skills further. 
 
 Experience:
   - Employer: Yandex Crowd  
@@ -25,32 +27,21 @@ Experience:
       - Title: SUPPORT SPECIALIST WITH TECHNICAL SKILLS
         Date: Apr 2023 - present
         Details:
-          - Replying to users' messages by mail and in chats
-          - API, Postman
-          - service improvement
+          - identifying user problems, responding to user messages by mail and in chats
+          - working with Maps and Routing APIs, Postman, tracking systems, application logs, knowledge bases, service improvement
+          - solving customer tasks for Maps and Yandex Routing API products (search for solutions, errors, parameter selection, analysis)
+          - updating, editing and maintaining the Knowledge Base and templates
+          - proofreading, creation of knowledge and documentation (text simplification, logical structuring of the solution)
+          - teamwork, technical meetings. 
   - Employer: Yandex
     Place: Remote
     Positions:
       - Title: SOFTWARE TESTER
         Date: Aug 2021 - Mar 2022
         Details:
-          - Manual testing of services and establishment of bug reports
-          - Checking existing errors for playback
-          - Writing test scripts and checklists to test the functionality of services
-  - Employer: Luidor
-    Place: Nizhniy Novgorod
-    Positions:
-      - Title: Car Mechanic
-        Date: Jun 2019 - Jul 2019
-        Details:
-          - Pre-sale cars preparation
-          - Checking the main fluids
-          - Body wash
-          - Painting parts
-          - Checking the tire pressure level
-          - Checking the level of transmission fluid and appropriate replacement
-          - Tightening /loosening fasteners, suspension, handbrake
-          - Partial assembly (cargo platform)
+          - manual testing of services (smoke, regression, functional) and creation of bug reports (bug reports)
+          - checking existing bugs to see if they can be reproduced.
+          - development of test scenarios and checklists to test the functionality of services.
 
 
 Education:
@@ -66,6 +57,7 @@ Skills:
       - Python
       - C/C++
       - SQL
+      - Java
   - Family: Developer Tools
     Items:
       - Git
@@ -75,6 +67,7 @@ Skills:
       - LaTeX
       - Linux
       - Postman
+      - Bruno
 
 Languages:
   - Name: Russian
