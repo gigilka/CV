@@ -27,3 +27,11 @@ colorRightColumnIconBackground = "#A45A37"
 pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = true
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+  [languages.ru]
+    languageName = "Русский"
+    weight = 2
