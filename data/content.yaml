@@ -16,9 +16,13 @@ BasicInfo:
     - Icon: fab fa-linkedin
       Info: <a class="contact__link" href="https://www.linkedin.com/in/kuchin-nick/">Kuchin Nikita</a>
 
+<<<<<<< HEAD
 Profile: I am a motivated software tester with 8 months of experience in manual testing. I participated in the VK Testers program (social network), where I found bugs that were accepted for review.
 
 I also had experience as a self-employed freelancer on the Yandex.Toloka platform. There, I performed a variety of monotonous tasks. However, I am eager to take on new challenges to grow and improve my IT skills further. 
+=======
+Profile: Motivated Software Tester with 8 month experience in manual testing. Participated in the program "VK Testers" (social network), in which I found bugs, which were accepted for review. I have experience as a self-employed (service Yandex.Toloka), where it was necessary to perform a lot of monotonous, but varied tasks. I am eager to be challenged in order to grow and further improve my IT skills. 
+>>>>>>> c32ee6e74009824ed2e4df194fef3fa6a1dbfc73
 
 Experience:
   - Employer: Yandex Crowd  
@@ -27,12 +31,19 @@ Experience:
       - Title: SUPPORT SPECIALIST WITH TECHNICAL SKILLS
         Date: Apr 2023 - present
         Details:
+<<<<<<< HEAD
           - identifying user problems, responding to user messages by mail and in chats
           - working with Maps and Routing APIs, Postman, tracking systems, application logs, knowledge bases, service improvement
           - solving customer tasks for Maps and Yandex Routing API products (search for solutions, errors, parameter selection, analysis)
           - updating, editing and maintaining the Knowledge Base and templates
           - proofreading, creation of knowledge and documentation (text simplification, logical structuring of the solution)
           - teamwork, technical meetings. 
+=======
+          - Identifying user issues, responding to user messages via mail and chat
+          - Working with API and JavaScript case study creation, Postman, tracking systems, application logs, knowledge bases
+          - Service improvement
+          - Teamwork, technical meetings.
+>>>>>>> c32ee6e74009824ed2e4df194fef3fa6a1dbfc73
   - Employer: Yandex
     Place: Remote
     Positions:
@@ -56,18 +67,27 @@ Skills:
     Items:
       - Python
       - C/C++
+<<<<<<< HEAD
       - SQL
       - Java
+=======
+      - Java
+      - JavaScript
+>>>>>>> c32ee6e74009824ed2e4df194fef3fa6a1dbfc73
   - Family: Developer Tools
     Items:
       - Git
   - Family: Misc
     Items:
-      - Postgresql
       - LaTeX
+<<<<<<< HEAD
       - Linux
       - Postman
       - Bruno
+=======
+      - Linux (user level and simple bash scripts)
+      - Postman
+>>>>>>> c32ee6e74009824ed2e4df194fef3fa6a1dbfc73
 
 Languages:
   - Name: Russian
